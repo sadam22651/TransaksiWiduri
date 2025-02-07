@@ -32,7 +32,7 @@ Proyek ini menerima kontribusi dari siapa saja yang ingin membantu pengembangann
 Harap pastikan kontribusi Anda sesuai dengan tujuan proyek ini dan disertai dokumentasi yang jelas.
 
 ## Lisensi
-Proyek ini tidak menggunakan lisensi.
+Proyek ini menggunakan LISENSI MIT
 
 ## Kontak
 Jika ada pertanyaan, tinggalkan komentar di repository GitHub ini.
