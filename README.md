@@ -30,6 +30,7 @@ Proyek ini menerima kontribusi dari siapa saja yang ingin membantu pengembangann
 4. Ajukan pull request dengan penjelasan rinci tentang perubahan Anda.
 
 Harap pastikan kontribusi Anda sesuai dengan tujuan proyek ini dan disertai dokumentasi yang jelas.
+atau anda cukup berkomentar tentang proyek ini agar saya bisa memperbaikinya sendiri
 
 ## Lisensi
 Proyek ini menggunakan LISENSI MIT
